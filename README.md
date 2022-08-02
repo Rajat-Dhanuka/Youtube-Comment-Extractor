@@ -19,7 +19,7 @@ Libraries required
 ## Input
 
 ```bash
-  Enter vido link: 
+  Enter video link: 
 ```
 ## Output
 
